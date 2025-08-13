@@ -23,7 +23,7 @@ Este es un pequeño proyecto en **JavaScript** que te permite:
 
 ## 📸 Vista previa
 
- Vista previa del juego <img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/a1e93fdf-3804-4cfe-9ef2-a813342e2026" />
+ Vista previa del juego <img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/e986af23-cec6-48a1-9b81-06b24660f974" />
 
 
 ---
@@ -45,7 +45,8 @@ Haz doble clic en el archivo index.html para abrirlo en tu navegador.
 
 ### 🔹 2. Agregar participantes
 
-<img width="664" height="202" alt="image" src="https://github.com/user-attachments/assets/f1413ea9-d23f-46b5-aae0-9e81095da799" />
+<img width="736" height="318" alt="image" src="https://github.com/user-attachments/assets/e1801e8a-a337-4f8b-b708-1b077578e4b1" />
+
 
 Escribe el nombre de un amigo en el campo de texto.
 
@@ -57,7 +58,8 @@ Repite para todos los amigos.
 
 ### 🔹 3. Sortear el amigo secreto
 
-<img width="731" height="473" alt="image" src="https://github.com/user-attachments/assets/2ba96c7a-cddb-4cf5-9ade-1f42fbef7036" />
+<img width="705" height="436" alt="image" src="https://github.com/user-attachments/assets/fdaecb7e-37a3-407b-8cbe-4a861b39a19b" />
+
 
 Cuando todos los nombres estén en la lista, haz clic en "Sortear amigo secreto".
 
