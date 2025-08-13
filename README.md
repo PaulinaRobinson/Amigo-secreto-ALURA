@@ -41,7 +41,7 @@ Haz doble clic en el archivo index.html para abrirlo en tu navegador.
 
 🔹 2. Desde el navegador (sin descargar nada)
 
-👉 
+👉 https://paulinarobinson.github.io/Amigo-secreto-ALURA/
 
 ### 🔹 2. Agregar participantes
 
